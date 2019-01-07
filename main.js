@@ -6,6 +6,6 @@ app.on('ready', function(){
         height: 720,
         title: 'Image Viewer'
     });
-    win.setMenu(null);
+    //win.setMenu(null);
     win.loadFile('index.html');
 });

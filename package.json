@@ -13,6 +13,8 @@
     "electron": "^4.0.1"
   },
   "dependencies": {
-    "materialize-css": "^1.0.0-rc.2"
+    "materialize-css": "^1.0.0-rc.2",
+    "three": "^0.100.0",
+    "three-orbitcontrols": "^2.99.1"
   }
 }
