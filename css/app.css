@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.full-screen {
+    position: absolute;
+    left: 0;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: black;
+}
+
+.file-chooser {
+    position: absolute;
+    left: 0;
+    top: 0;
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+}
+
+.file-chooser-text {
+    margin-left: 20px;
+    color: white;
+}
+
+.file-chooser-input {
+    display: none;
+}
