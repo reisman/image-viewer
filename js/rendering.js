@@ -43,6 +43,6 @@ function createMeshWithMaterial(texturePath) {
             mesh.position = camera.position;
             scene.add(mesh);
             renderer.render(scene, camera);
-        },
+        }
     );
 }
